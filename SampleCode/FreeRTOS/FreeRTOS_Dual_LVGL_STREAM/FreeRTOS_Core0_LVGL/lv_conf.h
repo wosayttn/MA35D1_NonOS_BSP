@@ -29,7 +29,7 @@
 #endif
 
 #define LV_DEF_REFR_PERIOD              20
-#define CONFIG_LV_DISP_FULL_REFRESH     1
+#define CONFIG_LV_DISP_FULL_REFRESH     0
 
 #define lv_snprintf                     snprintf
 #define lv_vsnprintf                    vsnprintf
